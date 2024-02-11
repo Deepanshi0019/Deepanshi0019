@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Deepanshi0019
-- 👀 I’m interested in coding
+  
 - 🌱 I’m currently learning full stack
 
 <!---
