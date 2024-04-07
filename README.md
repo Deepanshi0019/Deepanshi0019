@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deepanshi0019
+- 👋 Hi, I’m Deepanshi
   
 - 🌱 I’m currently learning full stack
 
