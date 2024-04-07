@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Deepanshi
   
-- 🌱 I’m currently learning full stack
+- 🌱 I’m currently learning Front-End
 
 <!---
 Deepanshi0019/Deepanshi0019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
