@@ -10,13 +10,9 @@
 ---
 
 ### ⚙️ Tech Stack  
-<div align="center">
-  
-🧩 HTML • CSS • JavaScript • ReactJS • TailwindCSS  
-☕ Learning Java + DSA  
-🛠️ Tools: Git • GitHub • VS Code • Linux  
-  
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,git,github,linux,vscode" />
+</p>
 
 ---
 
