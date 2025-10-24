@@ -27,28 +27,16 @@
 
 ### 🏗️ Experience & Contributions  
 
-- 🧠 **GSSoC’24 Contributor**  
-  - Fixed layout and padding issues in open source projects (Globehopin & RentLog-in Frontend)  
-  - Focused on **frontend consistency** and **responsive UI**  
+- 🧠 **GSSoC’24** – Fixed layout & padding issues in open source projects (Globehopin & RentLog-in)  
 
-- 🚀 **NASA Space Apps Challenge**  
-  - Developed and improved **frontend visuals and user interface**  
-  - Collaborated on multi-component web pages for better usability  
+- 🚀 **NASA Space Apps Challenge** – Frontend improvements for multi-component web pages  
 
 - 🎨 **Reimagine Hackathon**  
-  - **Round 1 – Boat Website Redesign**  
-    - Redesigned and coded a multi-level boat website using **HTML, TailwindCSS, and JavaScript**  
-    - Focused on **layout refinement, UI polish, and interactive design**  
-    - [Live Demo](https://techwizard-reimagineround10.onrender.com/)  
+  - **Round 1 – Boat Website** → Redesigned layout & UI [Demo](https://techwizard-reimagineround10.onrender.com/)  
+  - **Round 2 – Taj Hotel Website** → Built new frontend, experimented with **Three.js** [Demo](https://tech-wizard-reimagine-round2.vercel.app/)  
 
-  - **Round 2 – Taj Hotel Website**  
-    - Built a new frontend website using **HTML, TailwindCSS, JavaScript**, experimented with **Three.js effects**  
-    - Focused on **modern layout, interactivity, and immersive visuals**  
-    - [Live Demo](https://tech-wizard-reimagine-round2.vercel.app/)  
+- ⚡ **HackArCode** – Optimized UI components & improved responsiveness
 
-- ⚡ **HackArCode**  
-  - Optimized UI components and fixed frontend logic  
-  - Ensured better **user flow and responsiveness**
 
 
 ---
