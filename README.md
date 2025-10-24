@@ -56,10 +56,11 @@
 
 ### 🏅 Achievements & Badges  
 
-[![Holopin Register Badge](https://www.holopin.io/hacktoberfest2024/userbadge/cm2bxay4v142690cicg3k1sz1f)](#)  
-[![Holopin Level 1 Badge](https://www.holopin.io/hacktoberfest2024/userbadge/cm2pn9xln60530cl1vt7kpvzf)](#)  
-[![Holopin Level 2 Badge](https://www.holopin.io/hacktoberfest2024/userbadge/cm2vsmcle91020cl6la0jknsq)](#)  
-- Active participation in hackathons and community challenges
+<p align="center">
+  <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Register Badge" width="80" />
+  <img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-coffee-0-0-0.webp" alt="Level 1 Badge" width="80" />
+  <img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-coffee-robe-0-0.webp" alt="Level 2 Badge" width="80" />
+</p>
 
 ---
 
