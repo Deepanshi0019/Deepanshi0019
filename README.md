@@ -54,8 +54,12 @@
 
 ---
 
-### 🧠 Current Focus  
-> “Writing cleaner code, solving smarter problems, and making UI feel like a movie scene.” 🎥  
+### 🏅 Achievements & Badges  
+
+[![Holopin Register Badge](https://www.holopin.io/hacktoberfest2024/userbadge/cm2bxay4v142690cicg3k1sz1f)](#)  
+[![Holopin Level 1 Badge](https://www.holopin.io/hacktoberfest2024/userbadge/cm2pn9xln60530cl1vt7kpvzf)](#)  
+[![Holopin Level 2 Badge](https://www.holopin.io/hacktoberfest2024/userbadge/cm2vsmcle91020cl6la0jknsq)](#)  
+- Active participation in hackathons and community challenges
 
 ---
 
