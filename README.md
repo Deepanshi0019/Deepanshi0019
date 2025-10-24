@@ -1,75 +1,83 @@
-<h1 align="center">✨ Hey there, I'm Deepanshi Yadav 👋</h1>
+<h1 align="center">🌸 Hey, I'm Deepanshi Yadav 🌸</h1>
 
 <p align="center">
-  💻 Frontend Developer | 🌸 Curious Learner | 🚀 Dreaming Big <br/>
-  <em>"Turning coffee ☕ into clean code and creative UIs"</em>
+✨ Frontend Developer | ☁️ Dreamer | 💻 Lifelong Learner <br/>
+<em>“Making the web a prettier and smoother place, one pixel at a time 💫”</em>
 </p>
 
 ---
 
-### 🌈 About Me
+### 💖 About Me
 
-- 🎨 I love building **aesthetic, user-friendly web apps**
-- 🌱 Currently learning **Java & DSA** (to strengthen my logic)
-- 💡 Experienced with **HTML, CSS, JavaScript, TailwindCSS, React**
-- 💬 Ask me about frontend issues — I’ve broken enough layouts to fix them all 😅
-- 🧠 Participated in:
-  - NASA Space Apps Challenge (Frontend Team)
-  - Reimagine Hackathon (Frontend focused)
-  - HackArCode (Web-based Hackathon)
-  - Hacktoberfest 2024 🌸 (2 PRs merged – *Globehopin & RentLog-in Frontend*)
+- 🌷 Building **beautiful, functional web experiences**
+- 🌱 Learning **Java & DSA** (because logic is as important as looks!)
+- 🧠 Tech stack: **HTML • CSS • JavaScript • React • TailwindCSS**
+- 💬 I love debugging broken layouts (my therapy, lol)
+- 🪐 Participated in:
+  - NASA Space Apps Challenge 🌍
+  - Reimagine Hackathon (Frontend)
+  - HackArCode 💡
+  - Hacktoberfest 2024 🌸 (2 PRs merged – *Globehopin* & *RentLog-in Frontend*)
 
 ---
 
-### 🛠️ Tech Toolbox
+### 🎨 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode,linux" />
 </p>
 
 ---
 
-### 🧩 Featured Projects
+### 💎 Featured Work
 
-| 🌐 Project | 💡 Description |
+| 🪄 Project | ✨ Description |
 |-------------|----------------|
-| [Globehopin](https://github.com/YOUR_USERNAME/globehopin) | Fixed alignment and padding issues — made the UI sleek & balanced |
-| [RentLog-in-Frontend](https://github.com/YOUR_USERNAME/rentlog-in-frontend) | Debugged image layout issue causing design breakage |
-| Reimagine Hackathon | Built elegant frontend for theme-based project |
-| NASA Space App Challenge | Collaborated on frontend visuals & structure |
+| [Globehopin](https://github.com/YOUR_USERNAME/globehopin) | Fixed alignment & padding — made it shine 🌈 |
+| [RentLog-in-Frontend](https://github.com/YOUR_USERNAME/rentlog-in-frontend) | Repaired image layout issues causing design breaks 🧩 |
+| Reimagine Hackathon | Built pastel-perfect UI for creative challenge 💭 |
+| NASA Space Apps | Contributed to frontend interface & visuals 🚀 |
 
 ---
 
-### 🏆 GitHub Stats
+### 🌸 GitHub Vibes
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=rose_pine&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="130" />
-</p>
-
----
-
-### 🎧 Vibe Zone
-
-> *When code runs on first try — that’s my kind of music.*
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYRzcWP9ZV1W8L2/giphy.gif" width="250" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=rose_pine&hide_border=true" height="130"/>
 </p>
 
 ---
 
-### 🌸 Connect With Me
+### 💫 Fun Fact
+
+> I believe debugging is just digital meditation 🌿  
+> The moment it runs — pure bliss 💕
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="250"/>
+</p>
+
+---
+
+### ☕ Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+---
+
+<p align="center">
+  <sub>✨ Made with love, caffeine, and pastel colors ✨</sub>
+</p>
+
