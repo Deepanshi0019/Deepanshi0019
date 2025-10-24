@@ -81,16 +81,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/deepanshi-yadav-93a974238/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="40" width="40" style="color:#0A66C2"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40"/>
   </a>
   <a href="https://leetcode.com/Deepanshi0019/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" alt="LeetCode" height="40" width="40" style="color:#FFA116"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40"/>
   </a>
   <a href="https://www.instagram.com/deepanshi0019/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" height="40" width="40" style="color:#E4405F"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" height="40"/>
   </a>
   <a href="mailto:deepanshi0019@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" height="40" width="40" style="color:#D14836"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" height="40"/>
   </a>
 </p>
 
