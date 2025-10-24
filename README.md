@@ -80,9 +80,11 @@
 ### 🌌 Let’s Connect  
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Deepanshi0019-181717?style=for-the-badge&logo=github)](https://github.com/Deepanshi0019)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepanshi%20Yadav-0A66C2?style=for-the-badge&logo=linkedin)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-FF6F61?style=for-the-badge&logo=vercel)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepanshi%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepanshi-yadav-93a974238/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Deepanshi0019-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ydipanshi19/)
+[![Instagram](https://img.shields.io/badge/Instagram-@deepanshi0019-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deepanshi0019/)
+[![Email](https://img.shields.io/badge/Email-deepanshi0019@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ydeepanshi19@gmail.com)
+
 
 </div>
 
