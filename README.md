@@ -57,9 +57,9 @@
 ### 🏅 Achievements & Badges
 
 <p align="center">
-  <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Register Badge" style="transform: scale(0.3); margin:10px;" />
-  <img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-coffee-0-0-0.webp" alt="Level 1 Badge" style="transform: scale(0.4); margin:10px;" />
-  <img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-coffee-robe-0-0.webp" alt="Level 2 Badge" style="transform: scale(0.5); margin:10px;" />
+  <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Register Badge" style="transform: scale(0.3); margin:5px;" />
+  <img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-coffee-0-0-0.webp" alt="Level 1 Badge" style="transform: scale(0.4); margin:5px;" />
+  <img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-coffee-robe-0-0.webp" alt="Level 2 Badge" style="transform: scale(0.5); margin:5px;" />
 </p>
 
 
