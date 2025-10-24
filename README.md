@@ -66,5 +66,5 @@
 ---
 
 <p align="center">
-  <i>“A little bit of anime, a little bit of logic — that’s my kind of code.”</i> ✨
+  <i>“How can freedom exist,when this body itself is a prison.”</i> ✨
 </p>
