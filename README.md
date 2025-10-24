@@ -25,6 +25,29 @@
 
 ---
 
+### 🏗️ Experience & Contributions  
+
+- 🧠 **GSSoC’24 Contributor**  
+  - Fixed layout and padding issues in open source projects (Globehopin & RentLog-in Frontend)  
+  - Focused on **frontend consistency** and **responsive UI**  
+
+- 🚀 **NASA Space Apps Challenge**  
+  - Developed and improved **frontend visuals and user interface**  
+  - Collaborated on multi-component web pages for better usability  
+
+- 🎨 **Reimagine Hackathon (Boat Website Redesign)**  
+  - Redesigned and coded a **multi-level boat website** using **HTML, TailwindCSS, and JavaScript**  
+  - Implemented two versions:  
+    - [Round 1 Demo](https://techwizard-reimagineround10.onrender.com/)  
+    - [Round 2 Demo](https://tech-wizard-reimagine-round2.vercel.app/) – experimented with **Three.js effects**  
+  - Focused on **layout refinement, UI polish, and interactive design**  
+
+- ⚡ **HackArCode**  
+  - Optimized UI components and fixed frontend logic  
+  - Ensured better **user flow and responsiveness**
+
+---
+
 ### 📊 GitHub Stats  
 
 <p align="center">
@@ -68,4 +91,3 @@
 <p align="center">
   <i>“How can freedom exist, when this body itself is a prison.” ✨</i>
 </p>
-
