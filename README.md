@@ -86,8 +86,8 @@
   <a href="https://leetcode.com/u/ydipanshi19/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40"/>
   </a>
-  <a href="https://www.instagram.com/deepanshi0019/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" height="40"/>
+   <a href="https://www.instagram.com/deepanshi0019/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" height="40"/>
   </a>
 </p>
 
