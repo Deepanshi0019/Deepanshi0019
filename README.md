@@ -4,7 +4,7 @@
 
 <p align="center">
    <i>“Building visuals that speak louder than code.”</i> <br>
-   🧠 Learner | 💻 Developer | 🎮 Anime Soul | 🚀 Open Source Contributor
+   🧠 Learner | 💻 Developer | 🎬 Cinephile Soul | 🚀 Open Source Contributor
 </p>
 
 ---
