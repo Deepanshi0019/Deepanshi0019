@@ -96,5 +96,5 @@
 ---
 
 <p align="center">
-  <i>“How can freedom exist, when this body itself is a prison.” ✨</i>
+  <i> How can freedom exist, when this body itself is a prison. 🕊️</i>
 </p>
