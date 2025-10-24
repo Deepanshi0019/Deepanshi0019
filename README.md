@@ -1,10 +1,32 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hey+!!+I'm+Deepanshi+" alt="Typing SVG" /></a>
+# Hi there 👋, I'm YoginiX  
 
-- 👋 Hi, I’m Deepanshi
-  
-- 🌱 I’m currently learning Front-End
+💻 I'm a Software Developer & Cybersecurity Enthusiast  
+🎯 Currently exploring Web Security, Ethical Hacking & Frontend Magic  
+🧠 Love solving problems & learning how computers *really* work  
 
-<!---
-Deepanshi0019/Deepanshi0019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🚀 Tech Stack
+💡 Languages: JavaScript, Python, C  
+🌐 Frontend: HTML, CSS, React.js  
+🔐 Cybersecurity Tools: Burp Suite, Nmap, Wireshark  
+⚙️ OS: Linux (Ubuntu 24.04)  
+
+---
+
+### 🏆 GitHub Stats
+![YoginiX's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoginiX&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoginiX&layout=compact&theme=radical)
+
+---
+
+### 🌱 What I'm Learning
+- Advanced JavaScript  
+- OS & Networking Internals  
+- Ethical Hacking  
+
+---
+
+### 🤝 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/YOUR-LINK) | [Portfolio](https://YOUR-WEBSITE.com)
