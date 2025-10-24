@@ -81,18 +81,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/deepanshi-yadav-93a974238/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="40" width="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="40" width="40" style="color:#0A66C2"/>
   </a>
-  <a href="https://leetcode.com/u/ydipanshi19/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" alt="LeetCode" height="40" width="40"/>
+  <a href="https://leetcode.com/Deepanshi0019/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" alt="LeetCode" height="40" width="40" style="color:#FFA116"/>
   </a>
   <a href="https://www.instagram.com/deepanshi0019/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" height="40" width="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" height="40" width="40" style="color:#E4405F"/>
   </a>
-  <a href="mailto:ydeepanshi19@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" height="40" width="40"/>
+  <a href="mailto:deepanshi0019@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" height="40" width="40" style="color:#D14836"/>
   </a>
 </p>
+
 
 
 ---
