@@ -35,16 +35,21 @@
   - Developed and improved **frontend visuals and user interface**  
   - Collaborated on multi-component web pages for better usability  
 
-- 🎨 **Reimagine Hackathon (Boat Website Redesign)**  
-  - Redesigned and coded a **multi-level boat website** using **HTML, TailwindCSS, and JavaScript**  
-  - Implemented two versions:  
-    - [Round 1 Demo](https://techwizard-reimagineround10.onrender.com/)  
-    - [Round 2 Demo](https://tech-wizard-reimagine-round2.vercel.app/) – experimented with **Three.js effects**  
-  - Focused on **layout refinement, UI polish, and interactive design**  
+- 🎨 **Reimagine Hackathon**  
+  - **Round 1 – Boat Website Redesign**  
+    - Redesigned and coded a multi-level boat website using **HTML, TailwindCSS, and JavaScript**  
+    - Focused on **layout refinement, UI polish, and interactive design**  
+    - [Live Demo](https://techwizard-reimagineround10.onrender.com/)  
+
+  - **Round 2 – Taj Hotel Website**  
+    - Built a new frontend website using **HTML, TailwindCSS, JavaScript**, experimented with **Three.js effects**  
+    - Focused on **modern layout, interactivity, and immersive visuals**  
+    - [Live Demo](https://tech-wizard-reimagine-round2.vercel.app/)  
 
 - ⚡ **HackArCode**  
   - Optimized UI components and fixed frontend logic  
   - Ensured better **user flow and responsiveness**
+
 
 ---
 
