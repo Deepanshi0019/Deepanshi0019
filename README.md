@@ -77,16 +77,23 @@
 
 ---
 
-### 🌌 Let’s Connect  
-<div align="center">
+### 🌌 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepanshi%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepanshi-yadav-93a974238/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Deepanshi0019-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ydipanshi19/)
-[![Instagram](https://img.shields.io/badge/Instagram-@deepanshi0019-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deepanshi0019/)
-[![Email](https://img.shields.io/badge/Email-deepanshi0019@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ydeepanshi19@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/deepanshi-yadav-93a974238/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="40" width="40"/>
+  </a>
+  <a href="https://leetcode.com/u/ydipanshi19/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" alt="LeetCode" height="40" width="40"/>
+  </a>
+  <a href="https://www.instagram.com/deepanshi0019/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" height="40" width="40"/>
+  </a>
+  <a href="mailto:ydeepanshi19@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" height="40" width="40"/>
+  </a>
+</p>
 
-
-</div>
 
 ---
 
