@@ -3,7 +3,7 @@
 <h2 align="center">🎞️ Deepanshi Yadav | Frontend Developer</h2>
 
 <p align="center">
-   <i>“Building visuals that speak louder than code.”</i> <br>
+   <i>Building visuals that speak louder than code.</i> <br>
    🧠 Learner | 💻 Developer | 🎬 Cinephile Soul | 🚀 Open Source Contributor
 </p>
 
