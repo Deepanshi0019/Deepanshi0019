@@ -71,7 +71,7 @@
 
 🍿 Currently watching: *Vinland Saga*  
 🎧 Coding vibe: *Lo-fi + Synthwave + Anime openings*  
-💬 Fav quote: *‘In a world of chaos, I choose to code my calm.’*  
+💬 Fav quote: *Give up on your dreams and Die*  
 
 </div>
 
