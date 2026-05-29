@@ -68,8 +68,7 @@
 
 ### ⚡ Quick Fun Zone  
 <div align="center">
-
-🍿 Currently watching: *Vinland Saga*  
+  
 🎧 Coding vibe: *Lo-fi + Synthwave + Anime openings*  
 💬 Fav quote: *Give up on your dreams and Die*  
 
