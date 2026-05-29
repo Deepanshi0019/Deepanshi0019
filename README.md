@@ -1,99 +1,58 @@
-<!-- 💫 Cinematic Anime + Tech Vibes Profile for Deepanshi -->
+## Deepanshi Yadav · Frontend Developer
 
-<h2 align="center">🎞️ Deepanshi Yadav | Frontend Developer</h2>
+> Building UIs that behave — and solving problems that don't.  
+> React on the front, Java + DSA at the core.
 
-<p align="center">
-   <i>Building visuals that speak louder than code.</i> <br>
-   🧠 Learner | 💻 Developer | 🎬 Cinephile Soul | 🚀 Open Source Contributor
-</p>
+`Open to internships`
 
 ---
 
-### ⚙️ Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,git,github,linux,vscode" />
-</p>
+### Tech Stack
+
+**Frontend**
+![Skills](https://skillicons.dev/icons?i=react,tailwind,js,html,css)
+`React` `Tailwind CSS` `JavaScript` `Three.js` `HTML · CSS`
+
+**DSA & Backend**
+![Skills](https://skillicons.dev/icons?i=java,spring,mysql)
+`Java` `DSA` `Spring` `SQL`
+
+**Tools**
+![Skills](https://skillicons.dev/icons?i=git,github,linux,vscode)
 
 ---
 
-### 🪄 About Me  
+### Projects & Hackathons
 
-- 🚀 Participated in **GSSoC'24**, **NASA Space Apps**, **Reimagine (Frontend)**, **HackArCode**  
-- 🎯 Fixing UI layouts, alignment, padding & responsive designs — I make frontends behave 😌  
-- 🎬 Love movies, hacking thrillers, and anime with deep storylines  
-- 🧩 Currently exploring: **Problem Solving in Java + System Design Basics**
-
----
-
-### 🏗️ Experience & Contributions  
-
-- 🧠 **GSSoC’24** – Fixed layout & padding issues in open source projects (Globehopin & RentLog-in)  
-
-- 🚀 **NASA Space Apps Challenge** – Frontend improvements for multi-component web pages  
-
-- 🎨 **Reimagine Hackathon**  
-  - **Round 1 – Boat Website** → Redesigned layout & UI [Demo](https://techwizard-reimagineround10.onrender.com/)  
-  - **Round 2 – Taj Hotel Website** → Built new frontend, experimented with **Three.js** [Demo](https://tech-wizard-reimagine-round2.vercel.app/)  
-
-- ⚡ **HackArCode** – Optimized UI components & improved responsiveness
-
-
+| Project | What I built | Demo |
+|---|---|---|
+| **Taj Hotel Website** | Full frontend from scratch + Three.js 3D interactions · Reimagine Round 2 | [↗](https://tech-wizard-reimagine-round2.vercel.app/) |
+| **Boat Website Redesign** | Complete UI redesign, responsive layout · Reimagine Round 1 | [↗](https://techwizard-reimagineround10.onrender.com/) |
+| **GSSoC '24** | Improved mobile responsiveness in Globehopin & RentLog-in | — |
+| **NASA Space Apps** | Frontend for a multi-component space data visualization app | — |
+| **HackArCode** | UI component optimization under hackathon conditions | — |
 
 ---
 
-### 📊 GitHub Stats  
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Deepanshi0019&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepanshi0019&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshi0019&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 ---
 
-### 🏅 Achievements & Badges
+### Connect
 
-<p align="start">
-  <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Register Badge" style="height:80px; margin:5px;" />
-  <img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-coffee-0-0-0.webp" alt="Level 1 Badge" style="height:90px; margin:5px;" />
-  <img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-coffee-robe-0-0.webp" alt="Level 2 Badge" style="height:100px; margin:5px;" />
-</p>
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepanshi-yadav-93a974238/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/ydipanshi19/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/deepanshi0019/)
 
 ---
 
-### ⚡ Quick Fun Zone  
-<div align="center">
-  
-🎧 Coding vibe: *Lo-fi + Synthwave + Anime openings*  
-💬 Fav quote: *Give up on your dreams and Die*  
-
-</div>
-
----
-
-### 🌌 Let’s Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/deepanshi-yadav-93a974238/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40"/>
-  </a>
-  <a href="https://leetcode.com/u/ydipanshi19/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40"/>
-  </a>
-   <a href="https://www.instagram.com/deepanshi0019/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" height="40"/>
-  </a>
-</p>
-
-
-
----
-
-<p align="center">
-  <i> How can freedom exist, when this body itself is a prison. 🕊️</i>
-</p>
+<details>
+<summary>a little more</summary>
+<br>
+🎧 lo-fi + synthwave + anime openings · currently grinding DSA in Java
+</details>
