@@ -1,58 +1,120 @@
-## Deepanshi Yadav · Frontend Developer
+````md
+<div align="center">
 
-> Building UIs that behave — and solving problems that don't.  
-> React on the front, Java + DSA at the core.
+# 深夜コード — Deepanshi Yadav
 
-`Open to internships`
+### Software Developer · Java Learner · Frontend Builder
 
----
+> building quietly, learning deeply.
 
-### Tech Stack
-
-**Frontend**
-![Skills](https://skillicons.dev/icons?i=react,tailwind,js,html,css)
-`React` `Tailwind CSS` `JavaScript` `Three.js` `HTML · CSS`
-
-**DSA & Backend**
-![Skills](https://skillicons.dev/icons?i=java,spring,mysql)
-`Java` `DSA` `Spring` `SQL`
-
-**Tools**
-![Skills](https://skillicons.dev/icons?i=git,github,linux,vscode)
-
----
-
-### Projects & Hackathons
-
-| Project | What I built | Demo |
-|---|---|---|
-| **Taj Hotel Website** | Full frontend from scratch + Three.js 3D interactions · Reimagine Round 2 | [↗](https://tech-wizard-reimagine-round2.vercel.app/) |
-| **Boat Website Redesign** | Complete UI redesign, responsive layout · Reimagine Round 1 | [↗](https://techwizard-reimagineround10.onrender.com/) |
-| **GSSoC '24** | Improved mobile responsiveness in Globehopin & RentLog-in | — |
-| **NASA Space Apps** | Frontend for a multi-component space data visualization app | — |
-| **HackArCode** | UI component optimization under hackathon conditions | — |
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepanshi0019&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshi0019&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
----
-
-### Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepanshi-yadav-93a974238/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/ydipanshi19/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/deepanshi0019/)
-
----
-
-<details>
-<summary>a little more</summary>
 <br>
-🎧 lo-fi + synthwave + anime openings · currently grinding DSA in Java
-</details>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=AAAAAA&center=true&vCenter=true&width=435&lines=React+%2B+Java;DSA+in+Java;Open+Source+Contributor;Linux+User" />
+
+</div>
+
+---
+
+## about
+
+```java
+public class Deepanshi {
+    String[] interests = {
+        "Frontend Development",
+        "Java",
+        "DSA",
+        "Open Source"
+    };
+
+    String currentFocus = "Learning backend development";
+}
+````
+
+---
+
+## tech stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,react,js,tailwind,html,css,spring,mysql,git,github,linux,vscode&theme=dark" />
+
+</div>
+
+---
+
+## projects
+
+### taj hotel website
+
+minimal luxury-inspired hotel website with interactive ui.
+
+* responsive frontend
+* three.js interactions
+* built during reimagine round 2
+
+🔗 https://tech-wizard-reimagine-round2.vercel.app/
+
+---
+
+### boat website redesign
+
+modern redesign focused on clean layout and responsiveness.
+
+* responsive ui
+* redesigned landing page
+* built during reimagine round 1
+
+🔗 https://techwizard-reimagineround10.onrender.com/
+
+---
+
+## open source
+
+* contributor at **GSSoC '24**
+* improved responsiveness in open-source projects
+* learning through real-world collaboration
+
+---
+
+## currently learning
+
+```txt
+java backend development
+spring boot
+data structures & algorithms
+```
+
+---
+
+## github stats
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Deepanshi0019&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=888888" />
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshi0019&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa" />
+
+</div>
+
+---
+
+## connect
+
+<div align="center">
+
+[linkedin](https://www.linkedin.com/in/deepanshi-yadav-93a974238/) ·
+[leetcode](https://leetcode.com/u/ydipanshi19/) ·
+[instagram](https://www.instagram.com/deepanshi0019/)
+
+</div>
+
+---
+
+<div align="center">
+
+### 「 静かに成長する 」
+
+*growing quietly.*
+
+</div>
+```
