@@ -14,8 +14,8 @@
 
 ## 🪄 About Me
 
-* 💻 Software Developer with experience in Frontend Development and modern web technologies.
-* ☕ Currently transitioning into Java Development with a focus on Core Java, OOPs, and DSA.
+* 💻 Software Developer with experience in Frontend Development and modern web technologiess.
+* ☕ Currently transitioning into Java Development with a focus on Core Java, OOPs, and DSAa.
 * 🧩 Strong problem-solving mindset with a passion for learning new technologies.
 * 🚀 Experience contributing to open-source projects and collaborating in development environments.
 * 🎯 Aspiring to build scalable and efficient software solutions as a Java Developer.
