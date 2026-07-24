@@ -23,7 +23,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF9A9E,100:6EC6FF&height=3&width=100%25" width="100%"/>
 
 ## 🌸 About Me
-- 💻 Software Developer with a background in Frontend Developmentt.
+- 💻 Software Developer with a background in Frontend Development.
 - ☕ Currently transitioning into Java Development — Core Java, OOPs, DSA.
 - 🚀 Active open-source contributor: GSSoC'24, Hacktoberfest, NASA Space Apps, Reimagine Hackathon.
 
